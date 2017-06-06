@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2017\Projects\Chat_App\Chat_App\bin\Debug\Chat_App.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Chat_App\Chat_App\bin\Debug\Chat_App.exe
+c:\users\user\documents\visual studio 2017\Projects\Chat_App\Chat_App\bin\Debug\Chat_App.pdb
+c:\users\user\documents\visual studio 2017\Projects\Chat_App\Chat_App\obj\Debug\Chat_App.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\Chat_App\Chat_App\obj\Debug\Chat_App.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\Chat_App\Chat_App\obj\Debug\Chat_App.exe
+c:\users\user\documents\visual studio 2017\Projects\Chat_App\Chat_App\obj\Debug\Chat_App.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Chat_App\Chat_App\obj\Debug\Chat_App.frmMain.resources
